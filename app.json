@@ -22,6 +22,9 @@
     "assetBundlePatterns": [
       "**/*"
     ],
+    "android":{
+      "package": "com.sidPatil.SmartLight"
+    },
     "ios": {
       "supportsTablet": true
     }
